@@ -6,7 +6,7 @@
 
 - 🎒 Currently in Uni
 - 💻 Interested in: decentralized services, novel AI models, and hacking things
-- 📫 How to reach me: @hexcod3 & nderimx@gmail.com
+- 📫 How to reach me: @hexcod3
 
 <!--
 - 🌱 Currently learning more on hacking Windows, Solaris, OSX, and Cisco IOS
