@@ -4,8 +4,9 @@
 **nderimx/nderimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🎒 Currently in Uni
-- 💻 Interested in: decentralized services, novel AI models, and hacking things
+- 🔭 I'm here to make the internet a free & safe place
+- 💻 Interested in: decentralized services & hacking all the things
+- 🔬 Currently researching Wi-Fi security & Building useful tools
 - 📫 How to reach me: @hexcod3
 
 <!--
